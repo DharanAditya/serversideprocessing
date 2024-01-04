@@ -1,4 +1,4 @@
-```Design a Website for Server Side Processing
+Design a Website for Server Side Processing
 AIM:
 
 To design a website to perform mathematical calculations in server side.
@@ -23,7 +23,7 @@ Publish the website in the given URL
 
 Step 6:
 Publish the website in the given URL.
-```
+
 PROGRAM :
 ```
 math.html
